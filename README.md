@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayesh-code&show_icons=true&locale=en&layout=compact" alt="jayeshjaincodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh-code&show_icons=true&locale=en" alt="jayeshjaincodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-code&" alt="jayeshjaincodes" /></p>
