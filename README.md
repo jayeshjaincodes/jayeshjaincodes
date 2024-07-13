@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Jayesh Jain</h1>
 <h3 align="center">Hello, I'm <a href="www.linkedin.com/in/jayesh-jain-147100246">Jayesh Jain </a> , a Computer Science student with a passion for innovative solutions. Currently pursuing my studies. Eager to apply my knowledge through hands-on projects, I thrive in collaborative environments. Actively seeking opportunities to connect with professionals, learn, and contribute to the ever-evolving world of technology. Let's connect and explore the possibilities together!"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-code&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-code&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshjaincodes" /> </p>
 
 - 🌱 I’m currently learning **Everything...**
 
